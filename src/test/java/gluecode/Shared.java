@@ -9,6 +9,7 @@ import pages.GooglePage;
 public class Shared
 {
 	//declare common objects
+	//declre defined 
 	public RemoteWebDriver driver;
 	public GooglePage obj;
 	public Scenario s; //to customize results file
